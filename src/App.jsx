@@ -49,13 +49,14 @@ export default function App() {
         >
           <h1 className="text-5xl md:text-6xl font-extrabold">Muhammad Mudasir</h1>
           <p className="text-xl text-gray-300">Executive Officer | Backend Ops Specialist</p>
-          <a
-            href="/Mudasir-Resume.pdf"
-            download
-            className="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-700 transition px-6 py-2 rounded-full text-lg font-medium"
-          >
-            <FaDownload /> Download Resume
-          </a>
+         <a
+  href="/Mudasir%20Updated%20CV.pdf"
+  download
+  className="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-700 transition px-6 py-2 rounded-full text-lg font-medium"
+>
+  <FaDownload /> Download Resume
+</a>
+
         </motion.div>
       </section>
 
